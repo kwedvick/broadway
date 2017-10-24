@@ -4,4 +4,37 @@ body {
 }
 .main-banner {
   background-image: url("./resources/images/the-flatiron-building.png");
+  color: white;
+}
+#process {
+  font-size: 32px;
+  font-weight: bold;
+}
+.processes {
+  font-size: 23px;
+  font-weight: bold;
+}
+.middle-banner {
+  background-image: url("./resources/images/the-flatiron-building.png");
+  color: white;
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+}
+#title {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.nav-btn {
+  font-size: 18px;
+  color: white;
+}
+.footer {
+  color: white;
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
 }
